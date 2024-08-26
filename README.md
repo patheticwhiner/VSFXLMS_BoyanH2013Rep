@@ -8,7 +8,7 @@
 
 ANC的研究可以追溯到20世纪70年代，迄今为止已经提出了大量的ANC系统和算法，参见参考文献[1]-[20]。
 
-<img src="BoyanH2013.png" style="zoom:50%;" />
+<img src="Images/BoyanH2013.png" style="zoom:50%;" />
 
 ### 1.1 用于NANC的FXLMS算法
 
@@ -171,7 +171,7 @@ $$
 
 ## 二、仿真实验设计
 
-<img src="BoyanH2013.png" style="zoom:50%;" />
+<img src="Images/BoyanH2013.png" style="zoom:50%;" />
 
 ### 2.1 仿真实验一
 
@@ -283,42 +283,46 @@ $$
 ### （1）实噪声抑制情况
 
 <div>
-    <img src="FXLMS1.svg"  width=33% />
-    <img src="FXRLS1.svg"  width=33% />
-    <img src="VSSFXLMS1.svg" width=33% />
+    <img src="Images/FXLMS1.svg"  width=33% />
+    <img src="Images/FXRLS1.svg"  width=33% />
+    <img src="Images/VSSFXLMS1.svg" width=33% />
 </div>
+
 
 
 ### （2）权重参数MSE收敛情况
 
 <div>
-    <img src="DFC_MSE1.svg"  width=33% />
-    <img src="DFC_MSE2.svg"  width=33% />
-    <img src="DFC_MSE3.svg" width=33% />
+    <img src="Images/DFC_MSE1.svg"  width=33% />
+    <img src="Images/DFC_MSE2.svg"  width=33% />
+    <img src="Images/DFC_MSE3.svg" width=33% />
 </div>
+
 
 
 ### （3）误差MSE收敛情况
 
 <div>
-    <img src="FXLMS_errMSE.svg"  width=33% />
-    <img src="FXRLS_errMSE.svg"  width=33% />
-    <img src="VSS FXLMS_errMSE.svg" width=33% />
+    <img src="Images/FXLMS_errMSE.svg"  width=33% />
+    <img src="Images/FXRLS_errMSE.svg"  width=33% />
+    <img src="Images/VSS FXLMS_errMSE.svg" width=33% />
 </div>
+
 
 
 ### (4) 可变步长收敛情况
 
 <div align = center>
-    <img src="VariableStepSize.svg"  width=50% />
+    <img src="Images/VariableStepSize.svg"  width=50% />
 </div>
+
 
 
 ### (5) VSS-FXLMS及其简化算法的权重参数收敛情况
 
 <div>
-    <img src="DFC_MSE4.svg"  width=49% />
-    <img src="DFC_MSE5.svg"  width=49% />
+    <img src="Images/DFC_MSE4.svg"  width=49% />
+    <img src="Images/DFC_MSE5.svg"  width=49% />
 </div>
 
 ## 四、实验结论
