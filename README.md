@@ -8,6 +8,7 @@
 
 ANC的研究可以追溯到20世纪70年代，迄今为止已经提出了大量的ANC系统和算法，参见参考文献[1]-[20]。
 
+
 <img src="Images/BoyanH2013.png" style="zoom:50%;" />
 
 ### 1.1 用于NANC的FXLMS算法
@@ -170,6 +171,7 @@ $$
 $$
 
 ## 二、仿真实验设计
+
 
 <img src="Images/BoyanH2013.png" style="zoom:50%;" />
 
